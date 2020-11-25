@@ -51,7 +51,7 @@ The models were applied and compared for *F0.5-score*
 [Jupyter Notebook 7](https://github.com/stervet/Prediction-of-extubation-success/blob/main/07_Advanced_Model.ipynb) (*AdvancedModels*): Train-Test-Split, Scaling, dummy classifier, advanced models, as well as random search, grid search and feature importance for each advanced model with added features  
 [Jupyter Notebook 8](https://github.com/stervet/Prediction-of-extubation-success/blob/main/08_Model-without_tracheo_column.ipynb) (*DroppingTracheoColumn*): repeating the steps of notebook 7 but dropping the column "tracheo" before running the model.  
 [Jupyter Notebook 9](https://github.com/stervet/Prediction-of-extubation-success/blob/main/09_Model_without_tracheo_rows.ipynb) (*DroppingTracheoPatients*): repeating the steps of notebook 7 but dropping all patients that have been tracheomized.  
-[SQL-Queries](https://github.com/CrazyBigFoot/mimic3/tree/main/sql) (*Query Archiv*)  
+[SQL-Queries](https://github.com/stervet/Prediction-of-extubation-success/tree/main/sql) (*Query Archiv*)  
 [Images](https://github.com/CrazyBigFoot/mimic3/tree/main/images)  
 [Presentation](https://github.com/CrazyBigFoot/mimic3/blob/main/PDF_Version_CDS_Extubation_MIMIC3.pdf) Presentation of the capstone project
 
