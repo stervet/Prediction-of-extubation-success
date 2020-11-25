@@ -52,8 +52,8 @@ The models were applied and compared for *F0.5-score*
 [Jupyter Notebook 8](https://github.com/stervet/Prediction-of-extubation-success/blob/main/08_Model-without_tracheo_column.ipynb) (*DroppingTracheoColumn*): repeating the steps of notebook 7 but dropping the column "tracheo" before running the model.  
 [Jupyter Notebook 9](https://github.com/stervet/Prediction-of-extubation-success/blob/main/09_Model_without_tracheo_rows.ipynb) (*DroppingTracheoPatients*): repeating the steps of notebook 7 but dropping all patients that have been tracheomized.  
 [SQL-Queries](https://github.com/stervet/Prediction-of-extubation-success/tree/main/sql) (*Query Archiv*)  
-[Images](https://github.com/CrazyBigFoot/mimic3/tree/main/images)  
-[Presentation](https://github.com/CrazyBigFoot/mimic3/blob/main/PDF_Version_CDS_Extubation_MIMIC3.pdf) Presentation of the capstone project
+[Images](https://github.com/stervet/Prediction-of-extubation-success/tree/main/images)  
+[Presentation](https://github.com/stervet/Prediction-of-extubation-success/blob/main/PDF_Version_CDS_Extubation_MIMIC3.pdf) Presentation of the capstone project
 
 ## Results
 - Best performing model(s): Base Model: , Advanced Model , Reduced Model: , Balanced Model:  
